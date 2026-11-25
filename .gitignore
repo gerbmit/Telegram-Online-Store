@@ -1,0 +1,22 @@
+# Секреты и конфигурация
+.env
+
+# База данных и логи
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Python и виртуальное окружение
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# IDE и системные файлы
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
